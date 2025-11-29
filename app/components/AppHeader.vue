@@ -41,13 +41,10 @@
       </div>
     </div>
 
-    <!-- 오른쪽 버튼 -->
-    <template #append>
-      <div class="append-container">
-        <button class="sign-button">sign up</button>
-        <button class="login-button">login</button>
-      </div>
-    </template>
+    <div>
+      <button class="sign-button">sign up</button>
+      <button class="login-button">login</button>
+    </div>
   </v-app-bar>
 </template>
 
