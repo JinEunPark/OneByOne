@@ -92,7 +92,7 @@ const items = [
 
   border-radius: 50%;
   /* 🔥 완전한 원형 */
-  background-color: #EA4C89;
+  background-color: black;
 
   margin-right: 10px;
   padding: 0;

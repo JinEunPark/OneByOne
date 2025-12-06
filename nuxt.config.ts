@@ -29,5 +29,5 @@ export default defineNuxtConfig({
     typeCheck: true,
   },
 
-  modules: ["@nuxt/icon"],
+  modules: ["@nuxt/icon", "@nuxtjs/supabase"],
 });
